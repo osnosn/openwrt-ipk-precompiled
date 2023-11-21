@@ -1,2 +1,2 @@
-# openwrt-ipk-precompiled-
+# openwrt-ipk-precompiled
 openwrt ipk
